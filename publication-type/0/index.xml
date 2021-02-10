@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Academic</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Boris L. Almonacid</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>AutoMH: Automatically Create Evolutionary Metaheuristic Algorithms Using Reinforced Learning </title>
+      <link>/publication/2021-01-01_automh_automatically/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_automh_automatically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary experiments with the Andean Condor Algorithm to solve problems of Continuous Domains</title>
+      <link>/publication/2019-01-01_preliminary_experime/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_preliminary_experime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolve the cell formation problem in a set of three manufacturing cells</title>
+      <link>/publication/2019-01-01_resolve_the_cell_for/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_resolve_the_cell_for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the optimal selection of a natural reserve using the particle swarm optimisation by applying transfer functions</title>
+      <link>/publication/2019-01-01_resolving_the_optima/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_resolving_the_optima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the optimal selection of a natural reserve using the particle swarm optimisation by applying transfer functions</title>
+      <link>/publication/2018-01-01_resolving_the_optima/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_resolving_the_optima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

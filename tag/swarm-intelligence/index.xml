@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swarm Intelligence | Academic</title>
+    <link>/tag/swarm-intelligence/</link>
+      <atom:link href="/tag/swarm-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Swarm Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Boris L. Almonacid</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Swarm Intelligence</title>
+      <link>/tag/swarm-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Andean Condor Algorithm</title>
+      <link>/project/aca/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/aca/</guid>
+      <description>&lt;p&gt;The Algorithm of the Andean Condor is a metaheuristic inspired by nature, specifically in the pattern of movement of the Andean condor when searching for its food. This movement pattern reflects the flight distance travelled by the Andean condor from its nest, to the place where the food is located. Besides, this flight distance changes depending on the seasons of the year.&lt;/p&gt;
+&lt;p&gt;The Algorithm of the Andean Condor presents a balance of its population through a performance indicator. This balance determines the quantity of Andean condors that will carry out an exploration or intensification movement. The Algorithm of the Andean Condor has a flexible design, which allows easy integration of heuristics or specific procedures according to the optimisation problem to be solved. In order to test the performance of the algorithm, a set of experiments have been performed solving a set of cell formation problems. Also, the results have been contrasted with other metaheuristic algorithms of the literature.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
