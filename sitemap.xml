@@ -19,7 +19,32 @@
   
   <url>
     <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2021-01-01_automh_automatically/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,12 +108,157 @@
   </url>
   
   <url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-01-01_autonomous_populatio/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-01-01_preliminary_experime/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-01-01_resolve_the_cell_for/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-01-01_resolving_the_optima/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-01-01_andean_condor_algori/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-01-01_resolving_the_optima/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-01-01_an_imperialist_compe/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-01-01_comparing_three_simp/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-01-01_selecting_a_biodiver/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-01-01_simulation_of_a_dyna/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-01-01_solving_the_manufact/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/aca/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/example/</loc>
+    <loc>/project/automh/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/evolutionary-algorithm/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/metaheuristic/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,28 +268,143 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/reinforcement-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/swarm-intelligence/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016-01-01_a_bat_algorithm_to_s/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016-01-01_a_firefly_algorithm_/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_efficient_leader_exc/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_efficient_parallel_s/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_optimization_for_ui_/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_resolving_the_manufa/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_solving_manufacturin/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-01-01_solving_the_manufact/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-01-01_a_migrating_birds_op/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-01-01_machine-part_cell_fo/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-01-01_solving_open-pit_lon/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

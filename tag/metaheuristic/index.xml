@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metaheuristic | Academic</title>
+    <link>/tag/metaheuristic/</link>
+      <atom:link href="/tag/metaheuristic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Metaheuristic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Boris L. Almonacid</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Metaheuristic</title>
+      <link>/tag/metaheuristic/</link>
+    </image>
+    
+    <item>
+      <title>ACA</title>
+      <link>/project/aca/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/aca/</guid>
+      <description>&lt;p&gt;Machine learning research has been able to solve problems in multiple aspects. An open area of research is machine learning for solving optimisation problems. An optimisation problem can be solved using a metaheuristic algorithm, which is able to find a solution in a reasonable amount of time. However, there is a problem, the time required to find an appropriate metaheuristic algorithm, that would have the convenient configurations to solve a set of optimisation problems properly.&lt;/p&gt;
+&lt;p&gt;A solution approach is shown here, using a proposal that automatically creates metaheuristic algorithms aided by a reinforced learning approach. Based on the experiments performed, the approach succeeded in creating a metaheuristic algorithm that managed to solve a large number of different continuous domain optimisation problems. This work&amp;rsquo;s implications are immediate because they describe a basis for the generation of metaheuristic algorithms in real-time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoMH</title>
+      <link>/project/automh/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/automh/</guid>
+      <description>&lt;p&gt;Machine learning research has been able to solve problems in multiple aspects. An open area of research is machine learning for solving optimisation problems. An optimisation problem can be solved using a metaheuristic algorithm, which is able to find a solution in a reasonable amount of time. However, there is a problem, the time required to find an appropriate metaheuristic algorithm, that would have the convenient configurations to solve a set of optimisation problems properly.&lt;/p&gt;
+&lt;p&gt;A solution approach is shown here, using a proposal that automatically creates metaheuristic algorithms aided by a reinforced learning approach. Based on the experiments performed, the approach succeeded in creating a metaheuristic algorithm that managed to solve a large number of different continuous domain optimisation problems. This work&amp;rsquo;s implications are immediate because they describe a basis for the generation of metaheuristic algorithms in real-time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

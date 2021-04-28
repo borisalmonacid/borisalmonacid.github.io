@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Boris L. Almonacid</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Boris L. Almonacid</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,22 +13,187 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>AutoMH: Automatically Create Evolutionary Metaheuristic Algorithms Using Reinforced Learning </title>
+      <link>/publication/2021-01-01_automh_automatically/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_automh_automatically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Population Regulation Using a Multi-Agent System in a Prey--Predator Model That Integrates Cellular Automata and the African Buffalo Optimization Metaheuristic</title>
+      <link>/publication/2019-01-01_autonomous_populatio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_autonomous_populatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary experiments with the Andean Condor Algorithm to solve problems of Continuous Domains</title>
+      <link>/publication/2019-01-01_preliminary_experime/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_preliminary_experime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolve the cell formation problem in a set of three manufacturing cells</title>
+      <link>/publication/2019-01-01_resolve_the_cell_for/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_resolve_the_cell_for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the optimal selection of a natural reserve using the particle swarm optimisation by applying transfer functions</title>
+      <link>/publication/2019-01-01_resolving_the_optima/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_resolving_the_optima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andean Condor Algorithm for cell formation problems</title>
+      <link>/publication/2018-01-01_andean_condor_algori/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_andean_condor_algori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the optimal selection of a natural reserve using the particle swarm optimisation by applying transfer functions</title>
+      <link>/publication/2018-01-01_resolving_the_optima/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_resolving_the_optima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Imperialist Competitive Algorithm to Solve the Manufacturing Cell Design Problem</title>
+      <link>/publication/2017-01-01_an_imperialist_compe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_an_imperialist_compe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing three simple ways of generating neighboring solutions when solving the cell formation problem using two versions of migrating birds optimization</title>
+      <link>/publication/2017-01-01_comparing_three_simp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_comparing_three_simp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm</title>
+      <link>/publication/2017-01-01_selecting_a_biodiver/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_selecting_a_biodiver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of a Dynamic Prey-Predator Spatial Model Based on Cellular Automata Using the Behavior of the Metaheuristic African Buffalo Optimization</title>
+      <link>/publication/2017-01-01_simulation_of_a_dyna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_simulation_of_a_dyna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the Manufacturing Cell Design Problem Using the Artificial Bee Colony Algorithm</title>
+      <link>/publication/2017-01-01_solving_the_manufact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_solving_the_manufact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bat algorithm to solve the manufacturing cell design problem</title>
+      <link>/publication/2016-01-01_a_bat_algorithm_to_s/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_a_bat_algorithm_to_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A firefly algorithm to solve the manufacturing cell design problem</title>
+      <link>/publication/2016-01-01_a_firefly_algorithm_/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_a_firefly_algorithm_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient leader exchange for migrating birds optimization when solving machine-part cell formation problems</title>
+      <link>/publication/2016-01-01_efficient_leader_exc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_efficient_leader_exc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient parallel sorting for migrating birds optimization when solving machine-part cell formation problems</title>
+      <link>/publication/2016-01-01_efficient_parallel_s/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_efficient_parallel_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization for UI Design via Metaheuristics</title>
+      <link>/publication/2016-01-01_optimization_for_ui_/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_optimization_for_ui_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the manufacturing cell design problem using the flower pollination algorithm</title>
+      <link>/publication/2016-01-01_resolving_the_manufa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_resolving_the_manufa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving manufacturing cell design problems by using a dolphin echolocation algorithm</title>
+      <link>/publication/2016-01-01_solving_manufacturin/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_solving_manufacturin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the manufacturing cell design problem using the modified binary firefly algorithm and the egyptian vulture optimisation algorithm</title>
+      <link>/publication/2016-01-01_solving_the_manufact/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_solving_the_manufact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A migrating birds optimization algorithm for machine-part cell formation problems</title>
+      <link>/publication/2015-01-01_a_migrating_birds_op/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_a_migrating_birds_op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-part cell formation problems with constraint programming</title>
+      <link>/publication/2015-01-01_machine-part_cell_fo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_machine-part_cell_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Open-Pit Long-Term Production Planning Problems with constraint programming a performance evaluation</title>
+      <link>/publication/2014-01-01_solving_open-pit_lon/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_solving_open-pit_lon/</guid>
+      <description></description>
     </item>
     
   </channel>
