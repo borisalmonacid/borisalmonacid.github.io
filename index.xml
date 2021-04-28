@@ -352,30 +352,17 @@ Three
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>ACA</title>
       <link>/project/aca/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/aca/</guid>
       <description>&lt;p&gt;Machine learning research has been able to solve problems in multiple aspects. An open area of research is machine learning for solving optimisation problems. An optimisation problem can be solved using a metaheuristic algorithm, which is able to find a solution in a reasonable amount of time. However, there is a problem, the time required to find an appropriate metaheuristic algorithm, that would have the convenient configurations to solve a set of optimisation problems properly.&lt;/p&gt;
 &lt;p&gt;A solution approach is shown here, using a proposal that automatically creates metaheuristic algorithms aided by a reinforced learning approach. Based on the experiments performed, the approach succeeded in creating a metaheuristic algorithm that managed to solve a large number of different continuous domain optimisation problems. This work&amp;rsquo;s implications are immediate because they describe a basis for the generation of metaheuristic algorithms in real-time.&lt;/p&gt;
-=======
-      <title>Andean Condor Algorithm</title>
-      <link>/project/aca/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/aca/</guid>
-      <description>&lt;p&gt;The Algorithm of the Andean Condor is a metaheuristic inspired by nature, specifically in the pattern of movement of the Andean condor when searching for its food. This movement pattern reflects the flight distance travelled by the Andean condor from its nest, to the place where the food is located. Besides, this flight distance changes depending on the seasons of the year.&lt;/p&gt;
-&lt;p&gt;The Algorithm of the Andean Condor presents a balance of its population through a performance indicator. This balance determines the quantity of Andean condors that will carry out an exploration or intensification movement. The Algorithm of the Andean Condor has a flexible design, which allows easy integration of heuristics or specific procedures according to the optimisation problem to be solved. In order to test the performance of the algorithm, a set of experiments have been performed solving a set of cell formation problems. Also, the results have been contrasted with other metaheuristic algorithms of the literature.&lt;/p&gt;
->>>>>>> origin
 </description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>AutoMH</title>
-=======
-      <title>AutoMH - Automatically Create Evolutionary Metaheuristic Algorithms Using Reinforcement Learning</title>
->>>>>>> origin
       <link>/project/automh/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/automh/</guid>
